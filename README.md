@@ -12,5 +12,7 @@ Every time the user collects trash, they will receive a point, and when they col
 **OBJECTIVE**: Navigate your submarine through the ocean, collecting as much trash as possible while avoiding obstacles. The more trash you collect, the higher your scores will be.
 
 **Sources used**: 
+
 Jonathan Karr. (2021, March 13). Python Tutorial 36: Snake Game using Turtle [Video]. YouTube. https://www.youtube.com/watch?v=DtS35LBqnp0
+
 Snake game in Python using Turtle graphics. (n.d.). Stack Overflow. https://stackoverflow.com/questions/30050194/snake-game-in-python-using-turtle-graphics
