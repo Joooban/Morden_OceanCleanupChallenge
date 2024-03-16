@@ -400,11 +400,6 @@ while True:
             scoreboard.clear()
             scoreboard.write(f"Score: {score}     High Score: {high_score}     Lives: {lives}", align="center",
                              font=("Verdana", 16, "normal"))
-
-            trash_shape = random.choice(trash_shapes)
-            turtle.register_shape(trash_shape)
-            trash.shape(trash_shape)
-   
     # Game over condition
     if lives == 0:
         window.clearscreen()
