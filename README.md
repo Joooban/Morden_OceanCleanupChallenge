@@ -1,4 +1,4 @@
-#Ocean Cleanup Challenge#
+# Ocean Cleanup Challenge
 
 **Final Project for IT101-1: Computer Programming Concepts 1 (Lab).**
 
